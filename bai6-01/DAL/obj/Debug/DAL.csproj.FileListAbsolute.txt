@@ -1,0 +1,12 @@
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\bin\Debug\DAL.dll.config
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\bin\Debug\DAL.dll
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\bin\Debug\DAL.pdb
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\bin\Debug\EntityFramework.dll
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\bin\Debug\EntityFramework.xml
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\obj\Debug\DAL.dll
+D:\HUYNHCONGTUONG_2180608199\bai6-01\DAL\obj\Debug\DAL.pdb
